@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Chris.
 
 - 👀 I’m interested in ... expanding my technical knowledge
-- 🌱 I’m currently learning ...Javascript, HTML, CSS, bootstrap, JQuery and other frameworks
+- 🌱 I’m currently learning ...Javascript, HTML, CSS, bootstrap, JQuery, React, GraphQl, Heroku, TailwindCSS, Handlebars and other web development frameworks. 
 
 
 <!---
